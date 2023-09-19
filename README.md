@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Davidjmz12
+- 👋 Hi, I’m David Jiménez Omeñaca.
 - 👀 I’m interested in computer science, maths, C++, Python,...
-- 🌱 I’m currently learning Maths and Informatic Engineer at the University of Zaragoza (Spain)
+- 🌱 I’m currently learning Maths and Computer Engineering at the University of Zaragoza (Spain)
 - 📫 You can reach me on davidjmzom1@gmail.com or on 825068@unizar.ez
 
 <!---
